@@ -23,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Adityag-123/Daily-practice/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Adityag-123/Daily-practice/tree/master/0933-number-of-recent-calls) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
