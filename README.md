@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Adityag-123/Daily-practice/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Adityag-123/Daily-practice/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Adityag-123/Daily-practice/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Adityag-123/Daily-practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
