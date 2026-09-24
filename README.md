@@ -45,4 +45,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Adityag-123/Daily-practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
