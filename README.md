@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityag-123/Daily-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Adityag-123/Daily-practice/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Adityag-123/Daily-practice/tree/master/0141-linked-list-cycle) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Adityag-123/Daily-practice/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
