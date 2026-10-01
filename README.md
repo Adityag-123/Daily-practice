@@ -30,6 +30,7 @@
 | [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Adityag-123/Daily-practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Adityag-123/Daily-practice/tree/master/0141-linked-list-cycle) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Adityag-123/Daily-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityag-123/Daily-practice/tree/master/0035-search-insert-position) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -65,8 +67,13 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adityag-123/Daily-practice/tree/master/0035-search-insert-position) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Adityag-123/Daily-practice/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
 <!---LeetCode Topics End-->
