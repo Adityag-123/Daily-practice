@@ -38,10 +38,12 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adityag-123/Daily-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Adityag-123/Daily-practice/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adityag-123/Daily-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Adityag-123/Daily-practice/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -71,6 +73,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adityag-123/Daily-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adityag-123/Daily-practice/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
