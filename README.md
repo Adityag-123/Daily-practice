@@ -55,6 +55,7 @@
 | [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Adityag-123/Daily-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityag-123/Daily-practice/tree/master/0035-search-insert-position) |
+| [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
 ## Math
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adityag-123/Daily-practice/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,4 +81,16 @@
 |  |
 | ------- |
 | [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
