@@ -20,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adityag-123/Daily-practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityag-123/Daily-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Adityag-123/Daily-practice/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Adityag-123/Daily-practice/tree/master/0141-linked-list-cycle) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Adityag-123/Daily-practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Adityag-123/Daily-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityag-123/Daily-practice/tree/master/0035-search-insert-position) |
 | [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Adityag-123/Daily-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
