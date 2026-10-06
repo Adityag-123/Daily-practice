@@ -32,6 +32,7 @@
 | [0013-roman-to-integer](https://github.com/Adityag-123/Daily-practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Adityag-123/Daily-practice/tree/master/0141-linked-list-cycle) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
+| [1207-unique-number-of-occurrences](https://github.com/Adityag-123/Daily-practice/tree/master/1207-unique-number-of-occurrences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0035-search-insert-position](https://github.com/Adityag-123/Daily-practice/tree/master/0035-search-insert-position) |
 | [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
+| [1207-unique-number-of-occurrences](https://github.com/Adityag-123/Daily-practice/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
