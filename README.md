@@ -80,6 +80,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityag-123/Daily-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityag-123/Daily-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adityag-123/Daily-practice/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityag-123/Daily-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Adityag-123/Daily-practice/tree/master/0100-same-tree) |
 ## Matrix
 |  |
@@ -110,6 +112,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityag-123/Daily-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Adityag-123/Daily-practice/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -118,5 +121,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Adityag-123/Daily-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Adityag-123/Daily-practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
