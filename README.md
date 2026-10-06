@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Adityag-123/Daily-practice/tree/master/0100-same-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -106,4 +107,16 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Adityag-123/Daily-practice/tree/master/0724-find-pivot-index) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adityag-123/Daily-practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adityag-123/Daily-practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adityag-123/Daily-practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
