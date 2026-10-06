@@ -59,6 +59,7 @@
 | [0027-remove-element](https://github.com/Adityag-123/Daily-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adityag-123/Daily-practice/tree/master/0035-search-insert-position) |
 | [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
+| [0724-find-pivot-index](https://github.com/Adityag-123/Daily-practice/tree/master/0724-find-pivot-index) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityag-123/Daily-practice/tree/master/1207-unique-number-of-occurrences) |
 ## Math
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityag-123/Daily-practice/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Adityag-123/Daily-practice/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
