@@ -79,6 +79,7 @@
 | [0013-roman-to-integer](https://github.com/Adityag-123/Daily-practice/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityag-123/Daily-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityag-123/Daily-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityag-123/Daily-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityag-123/Daily-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adityag-123/Daily-practice/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adityag-123/Daily-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
