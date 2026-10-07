@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/Adityag-123/Daily-practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Adityag-123/Daily-practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Adityag-123/Daily-practice/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityag-123/Daily-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Adityag-123/Daily-practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityag-123/Daily-practice/tree/master/1207-unique-number-of-occurrences) |
 ## Floyd's Cycle Finding Algorithm
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Adityag-123/Daily-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityag-123/Daily-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Adityag-123/Daily-practice/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -76,6 +78,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Adityag-123/Daily-practice/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/Adityag-123/Daily-practice/tree/master/0079-word-search) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityag-123/Daily-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,4 +133,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityag-123/Daily-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Adityag-123/Daily-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityag-123/Daily-practice/tree/master/0102-binary-tree-level-order-traversal) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityag-123/Daily-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
