@@ -153,4 +153,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Adityag-123/Daily-practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Adityag-123/Daily-practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
